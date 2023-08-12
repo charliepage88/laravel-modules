@@ -1,3 +1,7 @@
+# About
+
+Currently the original copy by caffeinated is no longer supported. This fork is intended for Laravel 10 support.
+
 # Caffeinated Modules
 [![Source](https://img.shields.io/badge/source-caffeinated/modules-blue.svg?style=flat-square)](https://github.com/caffeinated/modules)
 [![Latest Stable Version](https://poser.pugx.org/caffeinated/modules/v/stable?format=flat-square)](https://packagist.org/packages/caffeinated/modules)
